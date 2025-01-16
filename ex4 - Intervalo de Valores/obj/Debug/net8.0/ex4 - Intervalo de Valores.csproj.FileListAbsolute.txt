@@ -1,0 +1,15 @@
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex4 - Intervalo de Valores\bin\Debug\net8.0\ex4 - Intervalo de Valores.exe
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex4 - Intervalo de Valores\bin\Debug\net8.0\ex4 - Intervalo de Valores.deps.json
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex4 - Intervalo de Valores\bin\Debug\net8.0\ex4 - Intervalo de Valores.runtimeconfig.json
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex4 - Intervalo de Valores\bin\Debug\net8.0\ex4 - Intervalo de Valores.dll
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex4 - Intervalo de Valores\bin\Debug\net8.0\ex4 - Intervalo de Valores.pdb
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex4 - Intervalo de Valores\obj\Debug\net8.0\ex4 - Intervalo de Valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex4 - Intervalo de Valores\obj\Debug\net8.0\ex4 - Intervalo de Valores.AssemblyInfoInputs.cache
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex4 - Intervalo de Valores\obj\Debug\net8.0\ex4 - Intervalo de Valores.AssemblyInfo.cs
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex4 - Intervalo de Valores\obj\Debug\net8.0\ex4 - Intervalo de Valores.csproj.CoreCompileInputs.cache
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex4 - Intervalo de Valores\obj\Debug\net8.0\ex4 - Intervalo de Valores.sourcelink.json
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex4 - Intervalo de Valores\obj\Debug\net8.0\ex4 - Intervalo de Valores.dll
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex4 - Intervalo de Valores\obj\Debug\net8.0\refint\ex4 - Intervalo de Valores.dll
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex4 - Intervalo de Valores\obj\Debug\net8.0\ex4 - Intervalo de Valores.pdb
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex4 - Intervalo de Valores\obj\Debug\net8.0\ex4 - Intervalo de Valores.genruntimeconfig.cache
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex4 - Intervalo de Valores\obj\Debug\net8.0\ref\ex4 - Intervalo de Valores.dll

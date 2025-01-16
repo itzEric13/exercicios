@@ -1,0 +1,5 @@
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\obj\Debug\net8.0\Atividade_Condicionais_Eric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\obj\Debug\net8.0\Atividade_Condicionais_Eric.AssemblyInfoInputs.cache
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\obj\Debug\net8.0\Atividade_Condicionais_Eric.AssemblyInfo.cs
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\obj\Debug\net8.0\Atividade_Condicionais_Eric.csproj.CoreCompileInputs.cache
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\obj\Debug\net8.0\Atividade_Condicionais_Eric.sourcelink.json

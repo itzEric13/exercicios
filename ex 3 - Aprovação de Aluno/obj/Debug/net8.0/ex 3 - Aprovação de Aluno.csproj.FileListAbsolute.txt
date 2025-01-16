@@ -1,0 +1,15 @@
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex 3 - Aprovação de Aluno\bin\Debug\net8.0\ex 3 - Aprovação de Aluno.exe
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex 3 - Aprovação de Aluno\bin\Debug\net8.0\ex 3 - Aprovação de Aluno.deps.json
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex 3 - Aprovação de Aluno\bin\Debug\net8.0\ex 3 - Aprovação de Aluno.runtimeconfig.json
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex 3 - Aprovação de Aluno\bin\Debug\net8.0\ex 3 - Aprovação de Aluno.dll
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex 3 - Aprovação de Aluno\bin\Debug\net8.0\ex 3 - Aprovação de Aluno.pdb
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex 3 - Aprovação de Aluno\obj\Debug\net8.0\ex 3 - Aprovação de Aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex 3 - Aprovação de Aluno\obj\Debug\net8.0\ex 3 - Aprovação de Aluno.AssemblyInfoInputs.cache
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex 3 - Aprovação de Aluno\obj\Debug\net8.0\ex 3 - Aprovação de Aluno.AssemblyInfo.cs
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex 3 - Aprovação de Aluno\obj\Debug\net8.0\ex 3 - Aprovação de Aluno.csproj.CoreCompileInputs.cache
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex 3 - Aprovação de Aluno\obj\Debug\net8.0\ex 3 - Aprovação de Aluno.sourcelink.json
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex 3 - Aprovação de Aluno\obj\Debug\net8.0\ex 3 - Aprovação de Aluno.dll
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex 3 - Aprovação de Aluno\obj\Debug\net8.0\refint\ex 3 - Aprovação de Aluno.dll
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex 3 - Aprovação de Aluno\obj\Debug\net8.0\ex 3 - Aprovação de Aluno.pdb
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex 3 - Aprovação de Aluno\obj\Debug\net8.0\ex 3 - Aprovação de Aluno.genruntimeconfig.cache
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex 3 - Aprovação de Aluno\obj\Debug\net8.0\ref\ex 3 - Aprovação de Aluno.dll

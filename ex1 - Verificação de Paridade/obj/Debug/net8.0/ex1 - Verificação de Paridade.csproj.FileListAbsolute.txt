@@ -1,0 +1,15 @@
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex1 - Verificação de Paridade\bin\Debug\net8.0\ex1 - Verificação de Paridade.exe
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex1 - Verificação de Paridade\bin\Debug\net8.0\ex1 - Verificação de Paridade.deps.json
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex1 - Verificação de Paridade\bin\Debug\net8.0\ex1 - Verificação de Paridade.runtimeconfig.json
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex1 - Verificação de Paridade\bin\Debug\net8.0\ex1 - Verificação de Paridade.dll
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex1 - Verificação de Paridade\bin\Debug\net8.0\ex1 - Verificação de Paridade.pdb
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex1 - Verificação de Paridade\obj\Debug\net8.0\ex1 - Verificação de Paridade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex1 - Verificação de Paridade\obj\Debug\net8.0\ex1 - Verificação de Paridade.AssemblyInfoInputs.cache
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex1 - Verificação de Paridade\obj\Debug\net8.0\ex1 - Verificação de Paridade.AssemblyInfo.cs
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex1 - Verificação de Paridade\obj\Debug\net8.0\ex1 - Verificação de Paridade.csproj.CoreCompileInputs.cache
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex1 - Verificação de Paridade\obj\Debug\net8.0\ex1 - Verificação de Paridade.sourcelink.json
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex1 - Verificação de Paridade\obj\Debug\net8.0\ex1 - Verificação de Paridade.dll
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex1 - Verificação de Paridade\obj\Debug\net8.0\refint\ex1 - Verificação de Paridade.dll
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex1 - Verificação de Paridade\obj\Debug\net8.0\ex1 - Verificação de Paridade.pdb
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex1 - Verificação de Paridade\obj\Debug\net8.0\ex1 - Verificação de Paridade.genruntimeconfig.cache
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex1 - Verificação de Paridade\obj\Debug\net8.0\ref\ex1 - Verificação de Paridade.dll

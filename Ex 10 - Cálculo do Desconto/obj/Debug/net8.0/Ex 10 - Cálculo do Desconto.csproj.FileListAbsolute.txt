@@ -1,0 +1,15 @@
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\Ex 10 - Cálculo do Desconto\bin\Debug\net8.0\Ex 10 - Cálculo do Desconto.exe
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\Ex 10 - Cálculo do Desconto\bin\Debug\net8.0\Ex 10 - Cálculo do Desconto.deps.json
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\Ex 10 - Cálculo do Desconto\bin\Debug\net8.0\Ex 10 - Cálculo do Desconto.runtimeconfig.json
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\Ex 10 - Cálculo do Desconto\bin\Debug\net8.0\Ex 10 - Cálculo do Desconto.dll
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\Ex 10 - Cálculo do Desconto\bin\Debug\net8.0\Ex 10 - Cálculo do Desconto.pdb
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\Ex 10 - Cálculo do Desconto\obj\Debug\net8.0\Ex 10 - Cálculo do Desconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\Ex 10 - Cálculo do Desconto\obj\Debug\net8.0\Ex 10 - Cálculo do Desconto.AssemblyInfoInputs.cache
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\Ex 10 - Cálculo do Desconto\obj\Debug\net8.0\Ex 10 - Cálculo do Desconto.AssemblyInfo.cs
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\Ex 10 - Cálculo do Desconto\obj\Debug\net8.0\Ex 10 - Cálculo do Desconto.csproj.CoreCompileInputs.cache
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\Ex 10 - Cálculo do Desconto\obj\Debug\net8.0\Ex 10 - Cálculo do Desconto.sourcelink.json
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\Ex 10 - Cálculo do Desconto\obj\Debug\net8.0\Ex 10 - Cálculo do Desconto.dll
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\Ex 10 - Cálculo do Desconto\obj\Debug\net8.0\refint\Ex 10 - Cálculo do Desconto.dll
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\Ex 10 - Cálculo do Desconto\obj\Debug\net8.0\Ex 10 - Cálculo do Desconto.pdb
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\Ex 10 - Cálculo do Desconto\obj\Debug\net8.0\Ex 10 - Cálculo do Desconto.genruntimeconfig.cache
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\Ex 10 - Cálculo do Desconto\obj\Debug\net8.0\ref\Ex 10 - Cálculo do Desconto.dll

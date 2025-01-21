@@ -1,0 +1,15 @@
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex 8 - Verificação de Votação\bin\Debug\net8.0\ex 8 - Verificação de Votação.exe
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex 8 - Verificação de Votação\bin\Debug\net8.0\ex 8 - Verificação de Votação.deps.json
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex 8 - Verificação de Votação\bin\Debug\net8.0\ex 8 - Verificação de Votação.runtimeconfig.json
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex 8 - Verificação de Votação\bin\Debug\net8.0\ex 8 - Verificação de Votação.dll
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex 8 - Verificação de Votação\bin\Debug\net8.0\ex 8 - Verificação de Votação.pdb
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex 8 - Verificação de Votação\obj\Debug\net8.0\ex 8 - Verificação de Votação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex 8 - Verificação de Votação\obj\Debug\net8.0\ex 8 - Verificação de Votação.AssemblyInfoInputs.cache
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex 8 - Verificação de Votação\obj\Debug\net8.0\ex 8 - Verificação de Votação.AssemblyInfo.cs
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex 8 - Verificação de Votação\obj\Debug\net8.0\ex 8 - Verificação de Votação.csproj.CoreCompileInputs.cache
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex 8 - Verificação de Votação\obj\Debug\net8.0\ex 8 - Verificação de Votação.sourcelink.json
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex 8 - Verificação de Votação\obj\Debug\net8.0\ex 8 - Verificação de Votação.dll
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex 8 - Verificação de Votação\obj\Debug\net8.0\refint\ex 8 - Verificação de Votação.dll
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex 8 - Verificação de Votação\obj\Debug\net8.0\ex 8 - Verificação de Votação.pdb
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex 8 - Verificação de Votação\obj\Debug\net8.0\ex 8 - Verificação de Votação.genruntimeconfig.cache
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex 8 - Verificação de Votação\obj\Debug\net8.0\ref\ex 8 - Verificação de Votação.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ex1 - Verificação de Paridade")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba651d9aa50d21cd5bd9153985027ddcc8ffdc96")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72260de9a2a5b68e85f5a38fe2f43d01d51896b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ex1 - Verificação de Paridade")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ex1 - Verificação de Paridade")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

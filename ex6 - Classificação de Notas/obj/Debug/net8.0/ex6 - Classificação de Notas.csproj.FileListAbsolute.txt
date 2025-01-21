@@ -1,0 +1,15 @@
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex6 - Classificação de Notas\bin\Debug\net8.0\ex6 - Classificação de Notas.exe
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex6 - Classificação de Notas\bin\Debug\net8.0\ex6 - Classificação de Notas.deps.json
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex6 - Classificação de Notas\bin\Debug\net8.0\ex6 - Classificação de Notas.runtimeconfig.json
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex6 - Classificação de Notas\bin\Debug\net8.0\ex6 - Classificação de Notas.dll
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex6 - Classificação de Notas\bin\Debug\net8.0\ex6 - Classificação de Notas.pdb
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex6 - Classificação de Notas\obj\Debug\net8.0\ex6 - Classificação de Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex6 - Classificação de Notas\obj\Debug\net8.0\ex6 - Classificação de Notas.AssemblyInfoInputs.cache
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex6 - Classificação de Notas\obj\Debug\net8.0\ex6 - Classificação de Notas.AssemblyInfo.cs
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex6 - Classificação de Notas\obj\Debug\net8.0\ex6 - Classificação de Notas.csproj.CoreCompileInputs.cache
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex6 - Classificação de Notas\obj\Debug\net8.0\ex6 - Classificação de Notas.sourcelink.json
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex6 - Classificação de Notas\obj\Debug\net8.0\ex6 - Classificação de Notas.dll
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex6 - Classificação de Notas\obj\Debug\net8.0\refint\ex6 - Classificação de Notas.dll
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex6 - Classificação de Notas\obj\Debug\net8.0\ex6 - Classificação de Notas.pdb
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex6 - Classificação de Notas\obj\Debug\net8.0\ex6 - Classificação de Notas.genruntimeconfig.cache
+C:\Users\eric.rsantos5\source\repos\Atividade_Condicionais_Eric\Atividade_Condicionais_Eric\ex6 - Classificação de Notas\obj\Debug\net8.0\ref\ex6 - Classificação de Notas.dll
